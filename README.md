@@ -14,3 +14,31 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+👋 Hi, I'm Key Ridho Nugroho
+
+💻 Diploma Student in Information Technology
+🌱 Currently learning Laravel, React, Linux, and Networking
+🚀 Interested in Web Development, IoT, and Cyber Security
+📍 Indonesia
+
+## 🛠 Tech Stack
+- PHP
+- Laravel
+- JavaScript
+- React
+- MySQL
+- Ubuntu Linux
+- Git & GitHub
+
+## 📊 GitHub Stats
+(Stats Card)
+
+## 🔥 Streak Stats
+(Streak Card)
+
+## 📈 Most Used Languages
+(Language Card)
+
+## 📫 Connect with Me
+Instagram
+Email
