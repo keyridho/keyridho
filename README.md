@@ -31,14 +31,14 @@ Here are some ideas to get you started:
 - Git & GitHub
 
 ## 📊 GitHub Stats
-(Stats Card)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=keyridho&show_icons=true&theme=tokyonight)
 
 ## 🔥 Streak Stats
-(Streak Card)
+![GitHub Streak](https://streak-stats.demolab.com?user=keyridho&theme=tokyonight)
 
 ## 📈 Most Used Languages
-(Language Card)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=keyridho&layout=compact&theme=tokyonight)
 
 ## 📫 Connect with Me
-Instagram
-Email
+Instagram [https://www.instagram.com/keyridho/]
+Email [keyridho102@gmail.com]
