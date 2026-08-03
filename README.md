@@ -12,3 +12,9 @@
 ## Connect with Me
 [<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />](https://www.instagram.com/keyridho/) [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/key-ridho-nugroho-75406b418/)
 
+###
+
+<img data-importer="snake" src="https://raw.githubusercontent.com/keyridho/keyridho/snake-output/snake.svg" alt="Snake animation" />
+
+###
+
